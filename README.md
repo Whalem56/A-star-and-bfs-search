@@ -6,7 +6,8 @@ An implementation of an A-star search and breadth-first search for an artifical 
 ### Usage
 `java FindPath [0] [1]`
 where [0] = file name, [1] = astar | bfs
- 
+
+Example usage:
 `java FindPath input1.txt astar`
                 
 `java FindPath input2.txt bfs`
